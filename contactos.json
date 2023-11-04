@@ -1,190 +1,49 @@
 [
-    {
-        "PROVEEDOR": "PROVEEDOR 1",
-        "TELEFONO": "7798080415555"
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    },
-    {
-        "PROVEEDOR": "",
-        "TELEFONO": ""
-    }
+{"PROVEEDOR":"PROVEEDOR 1","TELEFONO":"3515193695"},
+{"PROVEEDOR":"PROVEEDOR 12","TELEFONO":"3515193721"},
+{"PROVEEDOR":"PROVEEDOR 13","TELEFONO":"3515193747"},
+{"PROVEEDOR":"PROVEEDOR 14","TELEFONO":"3515193773"},
+{"PROVEEDOR":"PROVEEDOR 15","TELEFONO":"3515193799"},
+{"PROVEEDOR":"PROVEEDOR 16","TELEFONO":"3515193825"},
+{"PROVEEDOR":"PROVEEDOR 18","TELEFONO":"3515193851"},
+{"PROVEEDOR":"PROVEEDOR 155","TELEFONO":"3515193877"},
+{"PROVEEDOR":"PROVEEDOR 166","TELEFONO":"3515193903"},
+{"PROVEEDOR":"PROVEEDOR 155","TELEFONO":"3515193929"},
+{"PROVEEDOR":"PROVEEDOR 166","TELEFONO":"3515193955"},
+{"PROVEEDOR":"PROVEEDOR 188","TELEFONO":"3515193981"},
+{"PROVEEDOR":"PROVEEDOR 145","TELEFONO":"3515194007"},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""},
+{"PROVEEDOR":"","TELEFONO":""}
 ]
